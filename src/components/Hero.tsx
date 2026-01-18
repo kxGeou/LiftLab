@@ -32,7 +32,7 @@ function Hero() {
             <h1 className='text-3xl md:text-4xl lg:text-5xl font-semibold'>Trening oparty na nauce. <span className='second-font italic text-[#497bec]'>Nie na mitach</span> </h1>
             <p className='leading-relaxed opacity-75 text-sm md:text-base'>Łączymy trening siłowy z wiedzą naukową, abyś trenował skuteczniej, bezpieczniej i z realnymi efektami. Analiza, planowanie i progres — wszystko oparte na faktach, nie trendach.</p>
 
-            <button className='p-3 md:p-4 bg-gray-500/30 backdrop-blur-2xl w-full uppercase font-medium  md:max-w-80 mt-8 flex items-center justify-center gap-3 transition-all hover:bg-white hover:text-gray-950 duration-300 cursor-pointer'>Zmień swoją sylwetkę <BicepsFlexed size={18}></BicepsFlexed></button>
+            <a href='https://grzegorzwfb.gumroad.com/l/gopftr' target='_blank' className='p-3 md:p-4 bg-gray-500/30 backdrop-blur-2xl w-full uppercase font-medium  md:max-w-80 mt-8 flex items-center justify-center gap-3 transition-all hover:bg-white hover:text-gray-950 duration-300 cursor-pointer'>Zmień swoją sylwetkę <BicepsFlexed size={18}></BicepsFlexed></a>
 
        
         </div>

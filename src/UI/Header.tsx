@@ -12,8 +12,8 @@ function Header() {
   ]
 
   return (
-    <header className={`flex w-full  justify-between p-4 lg:p-6 bg-gray-500/30  uppercase`}>
-      <div>logo</div>
+    <header className={`flex w-full items-center justify-between p-4 lg:p-6 bg-gray-500/30  uppercase`}>
+      <img src="./logobogo.png" alt="liftlab logo" className="w-10"></img>
 
 
 
