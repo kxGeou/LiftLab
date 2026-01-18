@@ -1,5 +1,4 @@
-import React from 'react'
-import { Facebook, Instagram, Mail, Phone, MapPin } from 'lucide-react'
+import { Instagram, Mail } from 'lucide-react'
 
 function Footer() {
   const nav = [

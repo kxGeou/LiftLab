@@ -1,4 +1,4 @@
-import { Instagram, Mail } from 'lucide-react'
+import { Instagram } from 'lucide-react'
 
 function Contact() {
     const contact = 
